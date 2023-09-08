@@ -39,4 +39,4 @@ def arduino_post():
         return "OK"
 
 if __name__ == '__main__':
-    app.run(host='localhost', port=8080)  # Run Flask app on a specified host and port
+    app.run(host='localhost', port=8888)  # Run Flask app on a specified host and port
