@@ -1,6 +1,10 @@
 # Python Flask App
 # Helper to POST data into Database
+# Default MySQL Database connection 
+# HTTP POST
 
+
+# (c)2023 GESANG TECHNOLOGY
 from flask import Flask, request
 import datetime  # Import the datetime module
 import mysql.connector
